@@ -4,9 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek%20Prajapati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=🤖+Building+Intelligent+Systems;📊+Turning+Data+into+Decisions;🚀+From+Jupyter+to+Production" alt="Typing SVG" />
-</a>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%93%8A;From+Jupyter+to+Production+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
