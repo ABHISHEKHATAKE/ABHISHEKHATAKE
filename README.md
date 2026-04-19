@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek%20Hata&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek%20Hatake&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Profile Views & Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=ABHISHEKHATA&style=for-the-badge&color=0891b2&labelColor=1c1917)
-[![GitHub followers](https://img.shields.io/github/followers/ABHISHEKHATA?style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/ABHISHEKHATA)
+![Profile Views](https://komarev.com/ghpvc/?username=ABHISHEKHATAKE&style=for-the-badge&color=0891b2&labelColor=1c1917)
+[![GitHub followers](https://img.shields.io/github/followers/ABHISHEKHATAKE?style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/ABHISHEKHATAKE)
 
 </div>
 
@@ -21,9 +21,9 @@
 ## 🧠 About Me
 
 ```python
-class AbhishekHata:
+class AbhishekHatake:
     def __init__(self):
-        self.name        = "Abhishek Hata"
+        self.name        = "Abhishek Hatake"
         self.role        = "Data Scientist & ML Engineer"
         self.location    = "India 🇮🇳"
         self.languages   = ["Python", "JavaScript", "TypeScript", "SQL"]
@@ -34,7 +34,7 @@ class AbhishekHata:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something intelligent together.")
 
-me = AbhishekHata()
+me = AbhishekHatake()
 me.say_hi()
 ```
 
@@ -77,10 +77,10 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ABHISHEKHATA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEKHATA&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6e96&currStreakLabel=00d4ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ABHISHEKHATAKE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEKHATAKE&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6e96&currStreakLabel=00d4ff" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKHATA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEKHATAKE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -135,7 +135,7 @@ me.say_hi()
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEKHATA&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6e96&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEKHATAKE&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6e96&area=true&hide_border=true)
 
 </div>
 
@@ -145,9 +145,9 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ABHISHEKHATA)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ABHISHEKHATA)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABHISHEKHATA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ABHISHEKHATAKE)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ABHISHEKHATAKE)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABHISHEKHATAKE)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ---
