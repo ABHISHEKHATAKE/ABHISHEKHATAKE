@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile Views & Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=ABHISHEKHATAKE&style=for-the-badge&color=0891b2&labelColor=1c1917)
+
 [![GitHub followers](https://img.shields.io/github/followers/ABHISHEKHATAKE?style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/ABHISHEKHATAKE)
 
 </div>
